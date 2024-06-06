@@ -1,0 +1,9 @@
+
+}python:S117"ZRename this parameter "expressionVect" to match the regular expression ^[_a-z][a-z0-9_]*$.(υα΅ΐόÿÿÿÿ8„©φ§Ε1
+spython:S100"PRename method "removeSpaces" to match the regular expression ^[a-z_][a-z0-9_]*$.(υα΅ΐόÿÿÿÿ8…©φ§Ε1
+python:S1178"aRename this local variable "AntesDoPrimeiroN" to match the regular expression ^[_a-z][a-z0-9_]*$.(±κΫ8…©φ§Ε1
+‚python:S117"_Rename this local variable "expressionVect" to match the regular expression ^[_a-z][a-z0-9_]*$.(ζύƒÿÿÿÿÿ8…©φ§Ε1
+}python:S117"ZRename this local variable "rightVect" to match the regular expression ^[_a-z][a-z0-9_]*$.( ΥΕνόÿÿÿÿ8…©φ§Ε1
+xpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(Έ’†όÿÿÿÿ8…©φ§Ε1
+]python:S5857""9Replace this use of a reluctant quantifier with "[^\)]*".(›κψÿÿÿÿ8…©φ§Ε1
+8python:S6659j"Use `endswith` here.(ΰςΆώÿÿÿÿ8…©φ§Ε1
